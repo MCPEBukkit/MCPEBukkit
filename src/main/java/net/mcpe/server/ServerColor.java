@@ -1,4 +1,4 @@
-package net.MCPEBukkit.server;
+package mcpebukkit;
 
 public class ServerColor {
 public static final String BEGIN = "\u00a7";
