@@ -18,5 +18,6 @@ RED = START + "c",
 LIGHT_PURPLE = START + "d",
 YELLOW = START + "e",
 WHITE = START + "f";
+//Original code belongs to @Zhuowie Zhang.
 //Thanks, Zhuowie Zhang. ;)
 }
