@@ -1,21 +1,22 @@
 package mcpebukkit;
 
 public class ServerColor {
-public static final String BEGIN = "\u00a7";
-public static final String BLACK = BEGIN + "0",
-DARK_BLUE = BEGIN + "1",
-DARK_GREEN = BEGIN + "2",
-DARK_AQUA = BEGIN + "3",
-DARK_RED = BEGIN + "4",
-DARK_PURPLE = BEGIN + "5",
-GOLD = BEGIN + "6",
-GRAY = BEGIN + "7",
-DARK_GRAY = BEGIN + "8",
-BLUE = BEGIN + "9",
-GREEN = BEGIN + "a",
-AQUA = BEGIN + "b",
-RED = BEGIN + "c",
-LIGHT_PURPLE = BEGIN + "d",
-YELLOW = BEGIN + "e",
-WHITE = BEGIN + "f";
+public static final String START = "\u00a7";
+public static final String BLACK = START + "0",
+DARK_BLUE = START + "1",
+DARK_GREEN = START + "2",
+DARK_AQUA = START + "3",
+DARK_RED = START + "4",
+DARK_PURPLE = START + "5",
+GOLD = START + "6",
+GRAY = START + "7",
+DARK_GRAY = START + "8",
+BLUE = START + "9",
+GREEN = START + "a",
+AQUA = START + "b",
+RED = START + "c",
+LIGHT_PURPLE = START + "d",
+YELLOW = START + "e",
+WHITE = START + "f";
+//Thanks, Zhuowie Zhang. ;)
 }
