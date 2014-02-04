@@ -48,9 +48,9 @@ public class constants {
 	public static final int FALLING_SAND = 66;
 	
 	//Tiles ;)
-	//public static final String TILE_SIGN = "Sign";
-	//public static final String TILE_CHEST = "Chest";
+	public static final String TILE_SIGN = "Sign";
+	public static final String TILE_CHEST = "Chest";
 	public static final int CHEST_SLOTS = 27;
-	//public static final String TILE_FURNACE = "Furnace";
+	public static final String TILE_FURNACE = "Furnace";
 	public static final int FURNACE_SLOTS = 3;
 }
