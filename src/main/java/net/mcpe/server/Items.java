@@ -1,7 +1,7 @@
 package mcpebukkit;
 
 public class items {
-	public static final int IRON_SHOVEL = 256;
+	public static int final IRON_SHOVEL = 256;
 	public static int final IRON_PICKAXE = 257;
 	public static int final IRON_AXE = 258;
 	public static int final FLINT_STEEL, FLINT_AND_STEEL = 259;
