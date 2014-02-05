@@ -51,7 +51,7 @@ public class items {
 	public static int final CHAIN_HELMET = 302;
 	public static int final CHAIN_CHESTPLATE = 303;
 	public static int final CHAIN_LEGGINGS = 304;
-	public static int fnal CHAIN_BOOTS = 305;
+	public static int final CHAIN_BOOTS = 305;
 	public static int final IRON_HELMET = 306;
 	public static int final IRON_CHESTPLATE = 307;
 	public static int final IRON_LEGGINGS = 308;
