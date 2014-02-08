@@ -83,7 +83,7 @@ public class items {
 	public static int final CLAY = 337;
 	public static int final SUGARCANE, SUGAR_CANE, SUGAR_CANES = 338;
 	public static int final PAPER = 339;
-	//340
+	public static final int BOOK = 340;
 	public static int final SLIMEBALL = 341;
 	//342, 343
 	public static int final EGG = 344;
