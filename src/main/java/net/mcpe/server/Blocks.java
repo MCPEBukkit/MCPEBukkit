@@ -83,7 +83,7 @@ public class blocks {
 	public static final int FENCE = 85;
 	public static final int PUMPKIN = 86;
 	public static final int NETHERRACK = 87;
-	public static final int SOUL_SAND = 88; //what? Soul sand?
+	//public static final int SOUL_SAND = 88; doesn't exist :/
 	public static final int GLOWSTONE, GLOWSTONE_BLOCK = 89;
 	//90
 	public static final int LIT_PUMPKIN, JACK_O_LANTERN = 91;
